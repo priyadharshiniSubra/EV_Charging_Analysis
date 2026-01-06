@@ -1,0 +1,1208 @@
+Station_Variant_ID,Charging Station ID,Charging Station Location,Charger Type
+S784,Station_391,Houston,DC Fast Charger
+S887,Station_428,San Francisco,Level 1
+S243,Station_181,San Francisco,Level 2
+S622,Station_327,Houston,Level 1
+S36,Station_108,Los Angeles,Level 1
+S645,Station_335,San Francisco,DC Fast Charger
+S185,Station_162,Houston,Level 2
+S556,Station_302,Los Angeles,Level 2
+S1055,Station_493,Los Angeles,Level 1
+S956,Station_452,Chicago,DC Fast Charger
+S313,Station_206,Los Angeles,DC Fast Charger
+S1149,Station_78,San Francisco,DC Fast Charger
+S179,Station_16,San Francisco,Level 2
+S623,Station_327,Houston,Level 2
+S1196,Station_96,Houston,Level 1
+S139,Station_147,Los Angeles,DC Fast Charger
+S294,Station_2,New York,DC Fast Charger
+S6,Station_10,Chicago,Level 2
+S902,Station_434,New York,Level 1
+S75,Station_125,Los Angeles,Level 2
+S1158,Station_81,Los Angeles,Level 2
+S1036,Station_485,New York,Level 1
+S117,Station_140,Chicago,DC Fast Charger
+S621,Station_326,New York,DC Fast Charger
+S150,Station_150,Houston,Level 1
+S522,Station_288,San Francisco,DC Fast Charger
+S712,Station_361,Houston,Level 1
+S661,Station_340,San Francisco,Level 1
+S86,Station_129,Los Angeles,Level 2
+S907,Station_438,Chicago,DC Fast Charger
+S402,Station_239,New York,DC Fast Charger
+S1091,Station_58,Chicago,Level 1
+S287,Station_198,New York,Level 2
+S327,Station_211,Houston,Level 2
+S815,Station_402,Houston,DC Fast Charger
+S782,Station_390,New York,Level 1
+S946,Station_45,Chicago,DC Fast Charger
+S1201,Station_97,New York,DC Fast Charger
+S500,Station_279,Los Angeles,Level 2
+S377,Station_23,Houston,Level 2
+S839,Station_410,Los Angeles,Level 2
+S977,Station_461,Houston,Level 2
+S785,Station_391,Houston,Level 1
+S917,Station_44,Los Angeles,Level 2
+S476,Station_27,Los Angeles,DC Fast Charger
+S509,Station_282,San Francisco,Level 1
+S1198,Station_97,Chicago,Level 2
+S984,Station_463,Los Angeles,Level 1
+S711,Station_36,New York,Level 2
+S40,Station_109,San Francisco,DC Fast Charger
+S1080,Station_55,Los Angeles,Level 1
+S269,Station_192,Chicago,Level 2
+S353,Station_219,Los Angeles,DC Fast Charger
+S252,Station_185,Houston,DC Fast Charger
+S1118,Station_69,New York,DC Fast Charger
+S593,Station_317,San Francisco,Level 2
+S93,Station_130,Houston,DC Fast Charger
+S1079,Station_55,Chicago,DC Fast Charger
+S750,Station_378,Houston,Level 2
+S1199,Station_97,Houston,Level 1
+S646,Station_336,Chicago,DC Fast Charger
+S1174,Station_87,Houston,Level 2
+S535,Station_294,San Francisco,Level 1
+S58,Station_119,Los Angeles,DC Fast Charger
+S318,Station_208,Houston,Level 2
+S644,Station_334,San Francisco,Level 2
+S845,Station_413,Los Angeles,DC Fast Charger
+S161,Station_154,Los Angeles,Level 1
+S682,Station_35,Houston,Level 1
+S1153,Station_79,San Francisco,Level 1
+S1110,Station_67,Houston,DC Fast Charger
+S668,Station_343,Chicago,DC Fast Charger
+S846,Station_413,Los Angeles,Level 1
+S658,Station_34,Houston,Level 1
+S1200,Station_97,Los Angeles,Level 1
+S201,Station_169,San Francisco,Level 1
+S200,Station_169,New York,Level 2
+S152,Station_151,Houston,DC Fast Charger
+S1124,Station_71,Houston,Level 1
+S548,Station_3,Los Angeles,Level 2
+S590,Station_314,San Francisco,Level 1
+S598,Station_32,Chicago,Level 1
+S520,Station_287,San Francisco,Level 2
+S1162,Station_82,Houston,Level 1
+S891,Station_43,Chicago,Level 1
+S786,Station_391,San Francisco,Level 2
+S23,Station_105,New York,Level 2
+S2,Station_1,Los Angeles,Level 2
+S1097,Station_61,San Francisco,Level 2
+S478,Station_270,San Francisco,Level 2
+S238,Station_180,New York,Level 1
+S365,Station_224,Houston,DC Fast Charger
+S1095,Station_6,Los Angeles,Level 2
+S19,Station_103,San Francisco,DC Fast Charger
+S5,Station_10,Chicago,Level 1
+S1129,Station_71,San Francisco,Level 2
+S1185,Station_90,Los Angeles,DC Fast Charger
+S368,Station_226,San Francisco,DC Fast Charger
+S174,Station_158,New York,DC Fast Charger
+S373,Station_228,San Francisco,DC Fast Charger
+S828,Station_405,San Francisco,DC Fast Charger
+S77,Station_126,Chicago,Level 2
+S933,Station_444,New York,Level 2
+S321,Station_209,New York,Level 2
+S1202,Station_97,San Francisco,DC Fast Charger
+S1132,Station_74,Chicago,DC Fast Charger
+S50,Station_115,San Francisco,Level 1
+S268,Station_191,San Francisco,DC Fast Charger
+S1060,Station_495,Los Angeles,Level 1
+S210,Station_170,Los Angeles,Level 1
+S565,Station_307,Chicago,Level 2
+S943,Station_448,Houston,DC Fast Charger
+S307,Station_204,Los Angeles,DC Fast Charger
+S1083,Station_56,Houston,Level 1
+S319,Station_208,New York,Level 1
+S836,Station_41,Los Angeles,DC Fast Charger
+S601,Station_32,Los Angeles,Level 1
+S147,Station_15,Chicago,DC Fast Charger
+S1098,Station_62,Houston,DC Fast Charger
+S165,Station_155,Los Angeles,Level 1
+S513,Station_284,Los Angeles,Level 2
+S320,Station_209,Chicago,DC Fast Charger
+S602,Station_320,Chicago,Level 1
+S1058,Station_494,Houston,Level 1
+S258,Station_187,New York,Level 1
+S1068,Station_498,New York,DC Fast Charger
+S925,Station_442,San Francisco,DC Fast Charger
+S94,Station_130,Los Angeles,DC Fast Charger
+S78,Station_127,Houston,Level 1
+S528,Station_292,Los Angeles,Level 2
+S49,Station_114,Houston,Level 2
+S289,Station_199,Houston,DC Fast Charger
+S89,Station_13,Houston,DC Fast Charger
+S480,Station_271,Los Angeles,DC Fast Charger
+S1181,Station_89,Chicago,Level 2
+S341,Station_215,Los Angeles,Level 2
+S932,Station_444,Houston,DC Fast Charger
+S497,Station_278,San Francisco,Level 1
+S942,Station_447,New York,Level 2
+S1005,Station_474,Houston,DC Fast Charger
+S1028,Station_481,San Francisco,Level 2
+S303,Station_203,Chicago,Level 1
+S1133,Station_74,Houston,Level 1
+S425,Station_25,San Francisco,Level 2
+S13,Station_101,Houston,DC Fast Charger
+S221,Station_176,Los Angeles,Level 2
+S885,Station_427,San Francisco,DC Fast Charger
+S54,Station_117,Los Angeles,Level 2
+S192,Station_166,Los Angeles,Level 1
+S837,Station_41,San Francisco,Level 2
+S889,Station_429,New York,DC Fast Charger
+S674,Station_344,San Francisco,DC Fast Charger
+S880,Station_424,New York,Level 1
+S721,Station_366,Houston,DC Fast Charger
+S64,Station_120,Houston,DC Fast Charger
+S1203,Station_97,San Francisco,Level 1
+S132,Station_145,Houston,DC Fast Charger
+S343,Station_216,Chicago,DC Fast Charger
+S375,Station_229,Los Angeles,Level 2
+S588,Station_313,Los Angeles,Level 2
+S95,Station_130,New York,Level 2
+S688,Station_352,Houston,Level 2
+S747,Station_377,New York,Level 2
+S595,Station_318,Los Angeles,Level 2
+S1002,Station_472,Los Angeles,Level 2
+S109,Station_137,Houston,Level 1
+S610,Station_324,Chicago,Level 2
+S649,Station_337,Chicago,DC Fast Charger
+S484,Station_273,Houston,Level 1
+S53,Station_117,Houston,Level 2
+S562,Station_306,New York,Level 2
+S725,Station_368,Houston,DC Fast Charger
+S1194,Station_94,Chicago,Level 1
+S197,Station_168,Houston,DC Fast Charger
+S924,Station_442,New York,DC Fast Charger
+S305,Station_203,New York,Level 1
+S662,Station_341,New York,DC Fast Charger
+S145,Station_149,New York,Level 1
+S819,Station_402,San Francisco,DC Fast Charger
+S247,Station_183,Houston,Level 1
+S847,Station_413,Los Angeles,Level 2
+S156,Station_152,Houston,Level 1
+S1136,Station_74,San Francisco,DC Fast Charger
+S720,Station_365,New York,DC Fast Charger
+S814,Station_401,San Francisco,Level 2
+S487,Station_274,Chicago,Level 2
+S862,Station_42,Chicago,Level 2
+S1062,Station_496,Houston,Level 1
+S331,Station_212,Houston,Level 1
+S14,Station_101,Los Angeles,Level 1
+S948,Station_45,Los Angeles,Level 1
+S1161,Station_82,Chicago,Level 1
+S207,Station_17,New York,DC Fast Charger
+S1131,Station_73,San Francisco,DC Fast Charger
+S113,Station_14,Los Angeles,DC Fast Charger
+S899,Station_433,Los Angeles,Level 1
+S172,Station_157,New York,Level 2
+S363,Station_223,New York,DC Fast Charger
+S99,Station_132,Houston,DC Fast Charger
+S655,Station_338,San Francisco,Level 1
+S823,Station_404,New York,Level 1
+S744,Station_376,Los Angeles,Level 1
+S743,Station_376,Los Angeles,DC Fast Charger
+S995,Station_47,Chicago,Level 2
+S31,Station_107,New York,Level 1
+S34,Station_108,Houston,Level 1
+S463,Station_265,San Francisco,Level 2
+S310,Station_205,Houston,Level 2
+S1152,Station_79,Los Angeles,Level 2
+S164,Station_155,Houston,Level 1
+S481,Station_271,Los Angeles,Level 1
+S1009,Station_476,Los Angeles,DC Fast Charger
+S1035,Station_485,Los Angeles,DC Fast Charger
+S417,Station_247,Los Angeles,DC Fast Charger
+S265,Station_19,Los Angeles,DC Fast Charger
+S676,Station_346,Chicago,DC Fast Charger
+S905,Station_436,Houston,DC Fast Charger
+S450,Station_26,Chicago,Level 1
+S347,Station_217,Chicago,DC Fast Charger
+S163,Station_154,New York,Level 1
+S217,Station_174,New York,Level 2
+S1190,Station_92,San Francisco,Level 1
+S900,Station_433,New York,Level 1
+S654,Station_338,Houston,Level 1
+S1024,Station_480,Chicago,Level 2
+S240,Station_181,Houston,Level 1
+S97,Station_131,New York,Level 2
+S951,Station_450,San Francisco,DC Fast Charger
+S1027,Station_481,San Francisco,Level 1
+S543,Station_298,Chicago,DC Fast Charger
+S488,Station_275,Houston,Level 1
+S486,Station_273,Los Angeles,Level 2
+S1053,Station_492,Houston,DC Fast Charger
+S857,Station_417,New York,Level 1
+S1142,Station_76,Los Angeles,Level 1
+S224,Station_177,San Francisco,Level 2
+S249,Station_184,Chicago,Level 1
+S597,Station_319,Chicago,DC Fast Charger
+S98,Station_131,San Francisco,Level 2
+S715,Station_363,New York,DC Fast Charger
+S1051,Station_49,San Francisco,DC Fast Charger
+S1081,Station_55,New York,Level 1
+S698,Station_355,San Francisco,Level 2
+S299,Station_200,New York,Level 2
+S572,Station_308,Los Angeles,Level 2
+S702,Station_356,San Francisco,DC Fast Charger
+S737,Station_373,Chicago,DC Fast Charger
+S57,Station_118,San Francisco,DC Fast Charger
+S459,Station_263,Houston,DC Fast Charger
+S971,Station_46,San Francisco,Level 1
+S555,Station_302,Houston,Level 2
+S700,Station_356,Los Angeles,Level 1
+S812,Station_400,San Francisco,Level 1
+S831,Station_408,Los Angeles,DC Fast Charger
+S262,Station_189,Los Angeles,Level 2
+S579,Station_310,New York,DC Fast Charger
+S594,Station_318,Los Angeles,DC Fast Charger
+S1052,Station_49,San Francisco,Level 2
+S424,Station_25,San Francisco,Level 1
+S464,Station_266,Chicago,DC Fast Charger
+S56,Station_118,New York,DC Fast Charger
+S987,Station_464,Los Angeles,DC Fast Charger
+S129,Station_144,New York,Level 2
+S922,Station_442,Houston,DC Fast Charger
+S297,Station_200,Los Angeles,DC Fast Charger
+S171,Station_157,New York,DC Fast Charger
+S1042,Station_487,Chicago,DC Fast Charger
+S678,Station_348,Chicago,Level 1
+S105,Station_134,Los Angeles,Level 2
+S811,Station_400,Houston,Level 1
+S141,Station_148,Chicago,Level 2
+S1125,Station_71,Houston,Level 2
+S387,Station_233,New York,Level 1
+S640,Station_334,Chicago,DC Fast Charger
+S547,Station_299,San Francisco,Level 1
+S160,Station_154,Chicago,Level 1
+S1187,Station_90,New York,Level 1
+S643,Station_334,New York,Level 2
+S290,Station_199,Los Angeles,Level 1
+S182,Station_161,San Francisco,Level 2
+S451,Station_26,New York,Level 1
+S67,Station_121,Houston,Level 1
+S554,Station_301,San Francisco,Level 2
+S333,Station_212,San Francisco,Level 2
+S1104,Station_63,Houston,Level 1
+S952,Station_451,Chicago,Level 1
+S1113,Station_68,Houston,Level 1
+S434,Station_253,Chicago,Level 1
+S838,Station_410,Chicago,DC Fast Charger
+S968,Station_459,Chicago,Level 1
+S292,Station_2,Chicago,Level 1
+S800,Station_398,Chicago,Level 2
+S35,Station_108,Houston,Level 2
+S518,Station_286,Los Angeles,Level 2
+S1050,Station_49,Los Angeles,Level 1
+S121,Station_140,New York,Level 2
+S351,Station_218,Los Angeles,Level 1
+S915,Station_44,Los Angeles,DC Fast Charger
+S855,Station_417,Houston,Level 2
+S474,Station_269,Chicago,DC Fast Charger
+S1145,Station_78,Chicago,Level 1
+S344,Station_216,Houston,Level 1
+S764,Station_382,Los Angeles,DC Fast Charger
+S1204,Station_98,Houston,DC Fast Charger
+S392,Station_236,New York,DC Fast Charger
+S506,Station_282,Chicago,DC Fast Charger
+S146,Station_149,San Francisco,Level 2
+S844,Station_412,New York,DC Fast Charger
+S558,Station_304,New York,Level 2
+S1032,Station_484,Houston,DC Fast Charger
+S877,Station_424,Los Angeles,DC Fast Charger
+S1108,Station_66,Chicago,Level 2
+S389,Station_234,San Francisco,Level 1
+S964,Station_457,New York,Level 1
+S1176,Station_87,San Francisco,Level 1
+S1151,Station_79,Los Angeles,Level 1
+S311,Station_205,Los Angeles,Level 2
+S502,Station_279,San Francisco,Level 1
+S650,Station_337,Chicago,Level 2
+S436,Station_254,Los Angeles,Level 2
+S560,Station_304,San Francisco,Level 2
+S759,Station_380,New York,Level 2
+S96,Station_130,San Francisco,Level 2
+S1169,Station_84,San Francisco,DC Fast Charger
+S492,Station_276,Houston,Level 2
+S257,Station_187,Los Angeles,Level 1
+S970,Station_46,Chicago,Level 2
+S771,Station_387,Chicago,Level 1
+S248,Station_183,Houston,Level 2
+S470,Station_268,Chicago,Level 1
+S539,Station_296,San Francisco,Level 2
+S605,Station_322,Houston,DC Fast Charger
+S12,Station_100,New York,Level 1
+S1148,Station_78,Los Angeles,Level 1
+S483,Station_272,Los Angeles,Level 2
+S657,Station_339,Los Angeles,Level 1
+S186,Station_162,San Francisco,Level 2
+S918,Station_44,New York,DC Fast Charger
+S399,Station_238,Houston,DC Fast Charger
+S104,Station_134,Houston,Level 2
+S978,Station_461,Los Angeles,Level 2
+S271,Station_192,New York,DC Fast Charger
+S701,Station_356,New York,Level 1
+S496,Station_278,New York,Level 1
+S231,Station_18,Chicago,Level 1
+S61,Station_12,Chicago,DC Fast Charger
+S237,Station_180,Los Angeles,Level 2
+S71,Station_123,New York,DC Fast Charger
+S415,Station_246,New York,Level 1
+S362,Station_222,Houston,Level 2
+S738,Station_373,Houston,Level 2
+S1074,Station_51,Los Angeles,Level 1
+S1046,Station_488,New York,Level 2
+S1126,Station_71,Los Angeles,Level 1
+S1025,Station_480,Houston,DC Fast Charger
+S1021,Station_48,Houston,Level 2
+S263,Station_19,Chicago,Level 1
+S457,Station_262,Los Angeles,Level 1
+S1167,Station_84,Los Angeles,DC Fast Charger
+S167,Station_155,New York,Level 2
+S1078,Station_53,New York,Level 2
+S29,Station_107,Chicago,Level 2
+S706,Station_357,San Francisco,Level 2
+S559,Station_304,San Francisco,DC Fast Charger
+S108,Station_135,San Francisco,DC Fast Charger
+S930,Station_443,Los Angeles,Level 2
+S1116,Station_69,Los Angeles,Level 1
+S43,Station_11,Houston,Level 2
+S125,Station_143,Los Angeles,Level 2
+S270,Station_192,Los Angeles,Level 1
+S774,Station_387,Los Angeles,Level 2
+S748,Station_378,Chicago,Level 1
+S1115,Station_69,Los Angeles,DC Fast Charger
+S378,Station_23,New York,Level 1
+S242,Station_181,New York,DC Fast Charger
+S530,Station_293,Houston,Level 2
+S1183,Station_9,Chicago,Level 1
+S482,Station_271,New York,Level 1
+S772,Station_387,Chicago,Level 2
+S1191,Station_93,Chicago,DC Fast Charger
+S959,Station_454,Houston,Level 1
+S203,Station_17,Chicago,Level 1
+S162,Station_154,Los Angeles,Level 2
+S825,Station_405,Chicago,DC Fast Charger
+S626,Station_328,Houston,Level 2
+S143,Station_149,Houston,Level 1
+S745,Station_377,Houston,Level 2
+S469,Station_267,New York,Level 2
+S872,Station_422,Los Angeles,DC Fast Charger
+S627,Station_328,New York,DC Fast Charger
+S28,Station_106,San Francisco,Level 2
+S760,Station_381,Chicago,Level 2
+S60,Station_119,San Francisco,DC Fast Charger
+S114,Station_14,Los Angeles,Level 1
+S115,Station_14,New York,DC Fast Charger
+S465,Station_266,Houston,DC Fast Charger
+S120,Station_140,New York,Level 1
+S533,Station_294,Los Angeles,Level 1
+S716,Station_364,Los Angeles,Level 2
+S398,Station_238,Chicago,DC Fast Charger
+S659,Station_34,New York,DC Fast Charger
+S202,Station_169,San Francisco,Level 2
+S7,Station_10,Houston,DC Fast Charger
+S69,Station_122,Chicago,DC Fast Charger
+S813,Station_401,San Francisco,Level 1
+S134,Station_145,New York,Level 1
+S954,Station_451,Los Angeles,Level 2
+S937,Station_446,Houston,DC Fast Charger
+S364,Station_223,New York,Level 2
+S734,Station_371,Chicago,Level 1
+S444,Station_257,Chicago,DC Fast Charger
+S471,Station_268,Los Angeles,DC Fast Charger
+S710,Station_359,Los Angeles,Level 2
+S806,Station_4,Houston,DC Fast Charger
+S882,Station_426,Houston,DC Fast Charger
+S799,Station_397,Los Angeles,Level 1
+S694,Station_354,Los Angeles,Level 2
+S25,Station_106,Chicago,Level 1
+S1172,Station_85,Los Angeles,Level 2
+S340,Station_214,San Francisco,Level 1
+S68,Station_121,New York,Level 2
+S100,Station_132,Los Angeles,DC Fast Charger
+S653,Station_338,Houston,DC Fast Charger
+S283,Station_197,San Francisco,Level 2
+S264,Station_19,Houston,Level 2
+S62,Station_12,Los Angeles,Level 2
+S1159,Station_81,New York,DC Fast Charger
+S634,Station_330,Houston,Level 2
+S696,Station_354,San Francisco,DC Fast Charger
+S455,Station_262,Chicago,DC Fast Charger
+S787,Station_392,Los Angeles,Level 2
+S76,Station_125,New York,DC Fast Charger
+S567,Station_307,Los Angeles,Level 2
+S468,Station_267,Chicago,DC Fast Charger
+S921,Station_441,Chicago,Level 2
+S766,Station_383,Los Angeles,Level 1
+S122,Station_140,San Francisco,Level 1
+S630,Station_329,Los Angeles,Level 2
+S293,Station_2,Los Angeles,Level 1
+S1155,Station_8,Los Angeles,DC Fast Charger
+S427,Station_250,Houston,Level 2
+S111,Station_139,Chicago,Level 2
+S73,Station_124,Chicago,Level 2
+S574,Station_309,Chicago,Level 1
+S372,Station_228,Houston,Level 1
+S9,Station_10,San Francisco,DC Fast Charger
+S992,Station_469,Los Angeles,Level 1
+S332,Station_212,San Francisco,Level 1
+S46,Station_112,Houston,DC Fast Charger
+S1154,Station_8,Chicago,Level 2
+S1011,Station_477,New York,DC Fast Charger
+S713,Station_362,New York,Level 1
+S975,Station_460,San Francisco,DC Fast Charger
+S433,Station_253,Chicago,DC Fast Charger
+S116,Station_14,New York,Level 2
+S405,Station_240,San Francisco,Level 1
+S908,Station_438,Houston,Level 2
+S409,Station_242,San Francisco,Level 2
+S994,Station_469,San Francisco,DC Fast Charger
+S667,Station_342,San Francisco,Level 2
+S144,Station_149,Los Angeles,Level 2
+S393,Station_236,San Francisco,Level 2
+S563,Station_306,San Francisco,Level 1
+S1013,Station_478,Los Angeles,Level 1
+S193,Station_167,Los Angeles,Level 2
+S295,Station_20,Houston,DC Fast Charger
+S671,Station_343,New York,Level 2
+S107,Station_135,New York,Level 1
+S790,Station_393,San Francisco,DC Fast Charger
+S85,Station_129,Houston,DC Fast Charger
+S840,Station_410,San Francisco,Level 1
+S873,Station_422,New York,Level 1
+S532,Station_294,Los Angeles,DC Fast Charger
+S413,Station_246,Chicago,Level 2
+S261,Station_189,Houston,DC Fast Charger
+S916,Station_44,Los Angeles,Level 1
+S1173,Station_86,Chicago,Level 1
+S913,Station_44,Houston,Level 1
+S633,Station_330,Houston,Level 1
+S741,Station_375,New York,Level 2
+S938,Station_446,Los Angeles,DC Fast Charger
+S749,Station_378,Houston,Level 1
+S781,Station_390,Houston,Level 1
+S130,Station_145,Chicago,Level 1
+S1075,Station_51,New York,DC Fast Charger
+S408,Station_242,San Francisco,Level 1
+S534,Station_294,New York,DC Fast Charger
+S832,Station_408,San Francisco,Level 2
+S466,Station_266,Los Angeles,Level 2
+S298,Station_200,Los Angeles,Level 2
+S827,Station_405,Houston,Level 1
+S418,Station_248,New York,Level 2
+S1123,Station_70,Los Angeles,Level 2
+S663,Station_341,New York,Level 2
+S1090,Station_57,New York,Level 2
+S765,Station_382,Los Angeles,Level 2
+S779,Station_39,New York,DC Fast Charger
+S1001,Station_472,Los Angeles,DC Fast Charger
+S523,Station_289,Los Angeles,Level 1
+S929,Station_443,Los Angeles,DC Fast Charger
+S233,Station_18,San Francisco,DC Fast Charger
+S920,Station_440,New York,Level 1
+S356,Station_220,Chicago,DC Fast Charger
+S587,Station_313,Los Angeles,Level 1
+S411,Station_244,New York,Level 1
+S687,Station_352,Houston,DC Fast Charger
+S972,Station_460,Los Angeles,Level 2
+S557,Station_304,Los Angeles,Level 1
+S544,Station_298,Chicago,Level 2
+S512,Station_283,San Francisco,Level 1
+S44,Station_110,Los Angeles,Level 2
+S600,Station_32,Houston,Level 2
+S388,Station_234,New York,DC Fast Charger
+S507,Station_282,Los Angeles,DC Fast Charger
+S422,Station_25,Houston,Level 2
+S635,Station_331,San Francisco,Level 1
+S501,Station_279,New York,Level 1
+S366,Station_226,Chicago,DC Fast Charger
+S1088,Station_57,Los Angeles,Level 1
+S239,Station_180,New York,Level 2
+S383,Station_232,Houston,Level 2
+S672,Station_343,San Francisco,DC Fast Charger
+S1010,Station_477,Los Angeles,Level 2
+S519,Station_287,Los Angeles,Level 2
+S1106,Station_64,San Francisco,DC Fast Charger
+S961,Station_455,San Francisco,DC Fast Charger
+S385,Station_232,Los Angeles,Level 2
+S524,Station_289,San Francisco,DC Fast Charger
+S336,Station_213,New York,Level 1
+S447,Station_258,San Francisco,Level 2
+S235,Station_18,San Francisco,Level 2
+S219,Station_175,Los Angeles,DC Fast Charger
+S856,Station_417,New York,DC Fast Charger
+S374,Station_229,Chicago,Level 2
+S1166,Station_84,Houston,Level 1
+S525,Station_291,San Francisco,DC Fast Charger
+S904,Station_435,San Francisco,Level 2
+S733,Station_370,New York,DC Fast Charger
+S816,Station_402,Houston,Level 1
+S45,Station_110,New York,Level 2
+S438,Station_254,San Francisco,Level 1
+S1177,Station_88,Chicago,Level 1
+S1130,Station_72,Houston,Level 1
+S761,Station_381,Los Angeles,Level 1
+S551,Station_30,Chicago,Level 1
+S215,Station_172,Houston,DC Fast Charger
+S576,Station_309,New York,Level 1
+S793,Station_394,Los Angeles,DC Fast Charger
+S669,Station_343,Houston,DC Fast Charger
+S276,Station_194,San Francisco,Level 1
+S255,Station_186,Los Angeles,DC Fast Charger
+S350,Station_218,Houston,Level 2
+S187,Station_164,San Francisco,DC Fast Charger
+S180,Station_161,Chicago,Level 2
+S895,Station_431,Los Angeles,DC Fast Charger
+S92,Station_13,New York,Level 2
+S538,Station_296,San Francisco,Level 1
+S1182,Station_89,Los Angeles,Level 1
+S613,Station_324,New York,Level 1
+S865,Station_42,San Francisco,DC Fast Charger
+S820,Station_403,Los Angeles,Level 1
+S325,Station_210,Los Angeles,Level 1
+S376,Station_229,San Francisco,Level 2
+S683,Station_350,Los Angeles,Level 2
+S489,Station_275,Houston,Level 2
+S926,Station_442,San Francisco,Level 1
+S430,Station_251,New York,Level 2
+S580,Station_310,New York,Level 1
+S604,Station_321,San Francisco,DC Fast Charger
+S119,Station_140,Los Angeles,Level 2
+S504,Station_280,Los Angeles,DC Fast Charger
+S660,Station_34,New York,Level 2
+S575,Station_309,Houston,Level 2
+S788,Station_392,New York,DC Fast Charger
+S232,Station_18,New York,Level 1
+S1085,Station_57,Houston,DC Fast Charger
+S47,Station_112,San Francisco,Level 1
+S1072,Station_5,Los Angeles,Level 2
+S848,Station_414,Chicago,Level 1
+S244,Station_182,Chicago,DC Fast Charger
+S88,Station_13,Chicago,Level 1
+S656,Station_339,Houston,Level 1
+S515,Station_285,New York,DC Fast Charger
+S449,Station_259,San Francisco,Level 1
+S1186,Station_90,Los Angeles,Level 1
+S20,Station_104,Chicago,DC Fast Charger
+S754,Station_379,San Francisco,DC Fast Charger
+S254,Station_186,Chicago,DC Fast Charger
+S426,Station_250,Chicago,Level 1
+S441,Station_255,Los Angeles,Level 2
+S1140,Station_76,Houston,DC Fast Charger
+S770,Station_386,New York,DC Fast Charger
+S969,Station_459,Houston,Level 1
+S38,Station_108,San Francisco,Level 2
+S168,Station_156,Houston,Level 2
+S1164,Station_82,San Francisco,Level 1
+S1144,Station_77,San Francisco,DC Fast Charger
+S997,Station_470,Los Angeles,Level 2
+S973,Station_460,New York,DC Fast Charger
+S445,Station_258,Houston,Level 2
+S81,Station_127,San Francisco,Level 2
+S1033,Station_485,Chicago,Level 2
+S783,Station_391,Chicago,Level 2
+S508,Station_282,San Francisco,DC Fast Charger
+S1006,Station_474,New York,DC Fast Charger
+S1179,Station_88,Los Angeles,DC Fast Charger
+S308,Station_204,New York,Level 1
+S178,Station_16,San Francisco,DC Fast Charger
+S155,Station_151,San Francisco,Level 2
+S878,Station_424,Los Angeles,Level 2
+S435,Station_254,Houston,DC Fast Charger
+S259,Station_188,Houston,DC Fast Charger
+S629,Station_329,Los Angeles,Level 1
+S599,Station_32,Houston,DC Fast Charger
+S479,Station_271,Chicago,Level 1
+S1034,Station_485,Houston,DC Fast Charger
+S798,Station_397,Houston,Level 1
+S1071,Station_5,Houston,DC Fast Charger
+S967,Station_459,Chicago,DC Fast Charger
+S632,Station_330,Houston,DC Fast Charger
+S569,Station_308,Chicago,Level 1
+S638,Station_333,Los Angeles,Level 2
+S199,Station_169,New York,Level 1
+S241,Station_181,Los Angeles,DC Fast Charger
+S722,Station_366,New York,Level 2
+S227,Station_178,Los Angeles,Level 1
+S127,Station_143,New York,Level 1
+S714,Station_362,New York,Level 2
+S419,Station_248,San Francisco,DC Fast Charger
+S79,Station_127,New York,Level 2
+S460,Station_263,New York,DC Fast Charger
+S810,Station_40,San Francisco,Level 2
+S842,Station_412,Houston,Level 1
+S852,Station_416,Houston,Level 1
+S697,Station_355,San Francisco,Level 1
+S439,Station_255,Chicago,DC Fast Charger
+S126,Station_143,New York,DC Fast Charger
+S404,Station_240,New York,Level 2
+S664,Station_341,San Francisco,DC Fast Charger
+S286,Station_198,Chicago,Level 2
+S1107,Station_65,Houston,DC Fast Charger
+S775,Station_388,Los Angeles,Level 2
+S42,Station_11,Houston,DC Fast Charger
+S37,Station_108,New York,DC Fast Charger
+S452,Station_26,San Francisco,Level 1
+S935,Station_445,Chicago,DC Fast Charger
+S871,Station_421,Houston,Level 2
+S151,Station_151,Chicago,Level 2
+S360,Station_221,Houston,Level 1
+S1063,Station_496,Los Angeles,Level 1
+S394,Station_237,Chicago,DC Fast Charger
+S395,Station_237,Chicago,Level 1
+S1065,Station_497,Los Angeles,DC Fast Charger
+S352,Station_219,Chicago,Level 2
+S1043,Station_487,Chicago,Level 1
+S876,Station_424,Houston,Level 2
+S153,Station_151,Los Angeles,Level 2
+S72,Station_123,New York,Level 2
+S128,Station_144,Chicago,Level 2
+S1015,Station_478,New York,Level 1
+S440,Station_255,Los Angeles,Level 1
+S21,Station_104,Chicago,Level 1
+S648,Station_336,San Francisco,Level 2
+S176,Station_159,Los Angeles,Level 2
+S835,Station_409,Houston,Level 1
+S553,Station_300,New York,Level 2
+S796,Station_396,Los Angeles,Level 2
+S705,Station_357,New York,Level 2
+S443,Station_256,Los Angeles,Level 1
+S1061,Station_496,Chicago,Level 1
+S691,Station_353,Los Angeles,Level 2
+S358,Station_220,Houston,Level 2
+S63,Station_12,San Francisco,Level 1
+S617,Station_325,Los Angeles,Level 1
+S909,Station_438,Los Angeles,DC Fast Charger
+S410,Station_244,Houston,Level 2
+S245,Station_182,Houston,DC Fast Charger
+S514,Station_284,New York,Level 1
+S584,Station_312,New York,DC Fast Charger
+S1207,Station_99,New York,Level 1
+S281,Station_197,Houston,DC Fast Charger
+S1029,Station_482,New York,DC Fast Charger
+S369,Station_226,San Francisco,Level 2
+S639,Station_333,New York,DC Fast Charger
+S17,Station_103,Los Angeles,Level 1
+S26,Station_106,Houston,Level 2
+S717,Station_365,Chicago,DC Fast Charger
+S729,Station_368,San Francisco,Level 1
+S1092,Station_58,Houston,Level 2
+S1146,Station_78,Houston,DC Fast Charger
+S1138,Station_75,Los Angeles,Level 1
+S864,Station_42,New York,Level 1
+S631,Station_33,Houston,Level 1
+S1127,Station_71,New York,DC Fast Charger
+S1084,Station_56,San Francisco,Level 2
+S24,Station_105,San Francisco,Level 1
+S300,Station_200,San Francisco,DC Fast Charger
+S1135,Station_74,New York,DC Fast Charger
+S212,Station_171,Chicago,Level 2
+S746,Station_377,Los Angeles,Level 1
+S190,Station_166,Houston,Level 1
+S803,Station_399,San Francisco,DC Fast Charger
+S454,Station_261,San Francisco,Level 2
+S361,Station_221,Los Angeles,Level 1
+S1165,Station_83,Houston,DC Fast Charger
+S246,Station_182,Houston,Level 2
+S568,Station_307,New York,Level 1
+S10,Station_10,San Francisco,Level 2
+S794,Station_396,Los Angeles,DC Fast Charger
+S804,Station_4,Chicago,DC Fast Charger
+S685,Station_351,San Francisco,Level 1
+S818,Station_402,New York,Level 2
+S647,Station_336,Houston,Level 2
+S1045,Station_488,Los Angeles,DC Fast Charger
+S529,Station_292,San Francisco,Level 2
+S505,Station_281,Chicago,Level 2
+S342,Station_215,New York,Level 2
+S974,Station_460,New York,Level 1
+S1205,Station_98,San Francisco,DC Fast Charger
+S866,Station_420,Chicago,Level 1
+S15,Station_101,New York,DC Fast Charger
+S953,Station_451,Los Angeles,Level 1
+S1184,Station_9,New York,Level 1
+S1096,Station_61,Chicago,Level 1
+S136,Station_146,Houston,DC Fast Charger
+S886,Station_427,San Francisco,Level 1
+S860,Station_419,Chicago,Level 2
+S1105,Station_63,New York,Level 1
+S367,Station_226,Houston,Level 1
+S22,Station_105,Houston,DC Fast Charger
+S981,Station_462,Los Angeles,DC Fast Charger
+S453,Station_260,Houston,Level 1
+S680,Station_349,Los Angeles,Level 1
+S881,Station_425,New York,Level 1
+S888,Station_429,Los Angeles,Level 2
+S903,Station_434,San Francisco,DC Fast Charger
+S316,Station_207,Houston,Level 2
+S503,Station_28,Los Angeles,DC Fast Charger
+S211,Station_170,New York,Level 1
+S51,Station_116,Houston,Level 1
+S1120,Station_69,San Francisco,Level 2
+S695,Station_354,New York,DC Fast Charger
+S390,Station_234,San Francisco,Level 2
+S1,Station_1,Chicago,Level 2
+S689,Station_352,Los Angeles,Level 2
+S349,Station_218,Houston,DC Fast Charger
+S485,Station_273,Los Angeles,DC Fast Charger
+S728,Station_368,New York,Level 2
+S428,Station_251,Chicago,DC Fast Charger
+S677,Station_347,San Francisco,Level 1
+S673,Station_344,Chicago,DC Fast Charger
+S861,Station_419,Los Angeles,Level 2
+S218,Station_174,San Francisco,Level 1
+S209,Station_170,Houston,Level 1
+S412,Station_246,Chicago,Level 1
+S875,Station_423,San Francisco,Level 1
+S1188,Station_90,San Francisco,Level 1
+S939,Station_446,New York,Level 2
+S531,Station_294,Chicago,Level 1
+S829,Station_407,San Francisco,Level 2
+S148,Station_150,Chicago,DC Fast Charger
+S101,Station_132,San Francisco,Level 2
+S898,Station_433,Houston,DC Fast Charger
+S1094,Station_59,Houston,Level 2
+S963,Station_457,Houston,DC Fast Charger
+S611,Station_324,Los Angeles,DC Fast Charger
+S291,Station_199,San Francisco,Level 1
+S769,Station_386,Chicago,Level 1
+S1049,Station_49,Los Angeles,DC Fast Charger
+S1000,Station_472,Chicago,Level 2
+S382,Station_232,Chicago,Level 2
+S416,Station_247,Chicago,Level 1
+S1020,Station_479,San Francisco,Level 2
+S401,Station_239,Los Angeles,Level 2
+S851,Station_415,San Francisco,DC Fast Charger
+S723,Station_367,San Francisco,Level 1
+S196,Station_168,Chicago,DC Fast Charger
+S1022,Station_48,Los Angeles,Level 1
+S1076,Station_51,San Francisco,DC Fast Charger
+S546,Station_299,Houston,DC Fast Charger
+S910,Station_439,Houston,DC Fast Charger
+S345,Station_216,Los Angeles,Level 1
+S223,Station_177,Los Angeles,Level 2
+S758,Station_380,Los Angeles,Level 1
+S1007,Station_474,San Francisco,Level 2
+S1157,Station_80,New York,Level 1
+S253,Station_185,San Francisco,Level 1
+S976,Station_461,Chicago,Level 1
+S802,Station_399,Chicago,DC Fast Charger
+S477,Station_27,San Francisco,Level 1
+S957,Station_452,Houston,Level 1
+S986,Station_464,Chicago,Level 2
+S945,Station_448,San Francisco,DC Fast Charger
+S1014,Station_478,New York,DC Fast Charger
+S1054,Station_492,Houston,Level 1
+S849,Station_414,Los Angeles,Level 1
+S870,Station_420,San Francisco,DC Fast Charger
+S277,Station_195,San Francisco,DC Fast Charger
+S337,Station_214,Houston,Level 1
+S730,Station_369,Chicago,Level 1
+S665,Station_342,Chicago,Level 1
+S48,Station_114,Chicago,Level 2
+S407,Station_242,Los Angeles,DC Fast Charger
+S74,Station_124,Houston,Level 2
+S561,Station_305,Houston,DC Fast Charger
+S1139,Station_76,Chicago,DC Fast Charger
+S581,Station_311,Chicago,DC Fast Charger
+S993,Station_469,New York,DC Fast Charger
+S280,Station_196,San Francisco,Level 1
+S686,Station_351,San Francisco,Level 2
+S914,Station_44,Houston,Level 2
+S850,Station_415,Houston,DC Fast Charger
+S256,Station_186,Los Angeles,Level 2
+S670,Station_343,Los Angeles,Level 2
+S906,Station_437,San Francisco,DC Fast Charger
+S1168,Station_84,New York,Level 1
+S317,Station_207,New York,Level 2
+S154,Station_151,San Francisco,DC Fast Charger
+S169,Station_156,Los Angeles,DC Fast Charger
+S188,Station_165,Chicago,DC Fast Charger
+S982,Station_463,Chicago,DC Fast Charger
+S133,Station_145,Houston,Level 1
+S1067,Station_498,Los Angeles,Level 1
+S732,Station_37,Los Angeles,Level 2
+S637,Station_333,Houston,DC Fast Charger
+S821,Station_403,New York,DC Fast Charger
+S947,Station_45,Chicago,Level 2
+S315,Station_206,San Francisco,DC Fast Charger
+S1101,Station_62,San Francisco,Level 2
+S868,Station_420,Los Angeles,Level 2
+S699,Station_356,Houston,DC Fast Charger
+S990,Station_468,Los Angeles,DC Fast Charger
+S573,Station_308,San Francisco,DC Fast Charger
+S266,Station_19,New York,Level 1
+S718,Station_365,Los Angeles,DC Fast Charger
+S552,Station_300,Chicago,Level 2
+S1121,Station_7,Chicago,Level 1
+S421,Station_249,New York,Level 2
+S52,Station_117,Chicago,DC Fast Charger
+S1112,Station_68,Chicago,Level 2
+S274,Station_194,Los Angeles,Level 2
+S619,Station_325,San Francisco,DC Fast Charger
+S467,Station_266,San Francisco,Level 2
+S1023,Station_480,Chicago,Level 1
+S863,Station_42,Houston,DC Fast Charger
+S541,Station_297,Los Angeles,Level 1
+S381,Station_231,San Francisco,Level 2
+S958,Station_453,Los Angeles,Level 1
+S751,Station_378,Los Angeles,DC Fast Charger
+S792,Station_394,Chicago,Level 2
+S8,Station_10,Los Angeles,Level 1
+S708,Station_358,Houston,DC Fast Charger
+S1008,Station_475,Houston,DC Fast Charger
+S931,Station_444,Chicago,Level 1
+S83,Station_128,San Francisco,Level 1
+S229,Station_179,Chicago,Level 2
+S826,Station_405,Houston,DC Fast Charger
+S273,Station_193,New York,DC Fast Charger
+S1189,Station_92,Los Angeles,Level 1
+S731,Station_369,Los Angeles,Level 1
+S380,Station_231,New York,Level 1
+S1147,Station_78,Houston,Level 2
+S1171,Station_85,Los Angeles,DC Fast Charger
+S550,Station_30,Chicago,DC Fast Charger
+S334,Station_213,Chicago,Level 1
+S1048,Station_49,Houston,Level 2
+S461,Station_265,Los Angeles,Level 2
+S131,Station_145,Chicago,Level 2
+S1117,Station_69,Los Angeles,Level 2
+S1093,Station_58,Los Angeles,Level 2
+S251,Station_185,Chicago,Level 1
+S1100,Station_62,New York,Level 1
+S1018,Station_479,Chicago,Level 1
+S570,Station_308,Houston,DC Fast Charger
+S936,Station_445,San Francisco,Level 2
+S536,Station_296,Chicago,Level 2
+S191,Station_166,Los Angeles,DC Fast Charger
+S214,Station_171,Los Angeles,Level 2
+S1102,Station_63,Chicago,Level 2
+S140,Station_147,San Francisco,Level 2
+S1031,Station_484,Chicago,Level 2
+S564,Station_306,San Francisco,Level 2
+S181,Station_161,San Francisco,Level 1
+S124,Station_141,Houston,Level 2
+S641,Station_334,Los Angeles,Level 1
+S940,Station_446,San Francisco,Level 1
+S892,Station_43,New York,DC Fast Charger
+S901,Station_433,San Francisco,Level 1
+S527,Station_292,Los Angeles,DC Fast Charger
+S752,Station_378,New York,DC Fast Charger
+S1195,Station_95,New York,Level 2
+S456,Station_262,Chicago,Level 1
+S586,Station_313,Chicago,Level 1
+S768,Station_385,New York,DC Fast Charger
+S1128,Station_71,San Francisco,DC Fast Charger
+S927,Station_442,San Francisco,Level 2
+S323,Station_21,Chicago,DC Fast Charger
+S80,Station_127,San Francisco,DC Fast Charger
+S1156,Station_80,Chicago,DC Fast Charger
+S583,Station_312,Houston,DC Fast Charger
+S400,Station_238,San Francisco,Level 2
+S999,Station_471,New York,Level 1
+S736,Station_372,Los Angeles,Level 2
+S824,Station_404,San Francisco,Level 1
+S1040,Station_486,San Francisco,Level 1
+S423,Station_25,New York,Level 2
+S170,Station_156,Los Angeles,Level 2
+S1073,Station_5,San Francisco,DC Fast Charger
+S66,Station_120,Los Angeles,Level 2
+S494,Station_277,Chicago,Level 1
+S234,Station_18,San Francisco,Level 1
+S896,Station_431,San Francisco,Level 1
+S284,Station_198,Chicago,DC Fast Charger
+S1087,Station_57,Houston,Level 2
+S1193,Station_93,San Francisco,Level 1
+S767,Station_384,New York,Level 1
+S690,Station_353,Los Angeles,Level 1
+S272,Station_193,Houston,Level 2
+S396,Station_237,New York,DC Fast Charger
+S773,Station_387,Los Angeles,Level 1
+S883,Station_426,Los Angeles,Level 1
+S493,Station_277,Chicago,DC Fast Charger
+S370,Station_227,Houston,DC Fast Charger
+S386,Station_233,Chicago,Level 2
+S808,Station_40,New York,Level 1
+S608,Station_323,Chicago,Level 2
+S159,Station_153,Houston,Level 1
+S397,Station_237,San Francisco,Level 1
+S1039,Station_486,New York,DC Fast Charger
+S1057,Station_493,San Francisco,Level 2
+S991,Station_468,New York,Level 1
+S216,Station_172,New York,Level 2
+S39,Station_109,New York,Level 2
+S693,Station_354,Los Angeles,DC Fast Charger
+S250,Station_184,New York,Level 2
+S912,Station_439,San Francisco,Level 1
+S727,Station_368,Los Angeles,Level 2
+S998,Station_471,Houston,Level 1
+S285,Station_198,Chicago,Level 1
+S735,Station_371,Los Angeles,DC Fast Charger
+S739,Station_373,New York,Level 1
+S980,Station_461,San Francisco,Level 2
+S1064,Station_497,Chicago,DC Fast Charger
+S1175,Station_87,Los Angeles,Level 2
+S302,Station_201,San Francisco,DC Fast Charger
+S652,Station_337,San Francisco,DC Fast Charger
+S606,Station_322,San Francisco,Level 1
+S490,Station_275,New York,Level 1
+S55,Station_118,Chicago,Level 1
+S267,Station_191,Los Angeles,Level 2
+S592,Station_315,New York,DC Fast Charger
+S491,Station_276,Chicago,Level 1
+S628,Station_329,Houston,Level 2
+S511,Station_283,New York,Level 1
+S894,Station_431,Chicago,DC Fast Charger
+S446,Station_258,New York,Level 2
+S1103,Station_63,Houston,DC Fast Charger
+S1099,Station_62,Houston,Level 2
+S11,Station_100,Houston,Level 1
+S205,Station_17,Houston,DC Fast Charger
+S615,Station_325,Houston,DC Fast Charger
+S874,Station_423,Los Angeles,Level 2
+S988,Station_466,San Francisco,Level 1
+S414,Station_246,Houston,Level 2
+S429,Station_251,New York,DC Fast Charger
+S960,Station_455,Chicago,Level 2
+S1160,Station_81,New York,Level 2
+S778,Station_39,Los Angeles,Level 1
+S879,Station_424,New York,DC Fast Charger
+S890,Station_429,New York,Level 2
+S776,Station_388,San Francisco,Level 2
+S1041,Station_486,San Francisco,Level 2
+S833,Station_409,Chicago,DC Fast Charger
+S282,Station_197,Los Angeles,Level 2
+S175,Station_158,New York,Level 1
+S309,Station_204,New York,Level 2
+S279,Station_196,New York,Level 2
+S346,Station_216,New York,Level 1
+S516,Station_285,San Francisco,Level 1
+S962,Station_457,Chicago,Level 1
+S278,Station_196,Houston,Level 1
+S566,Station_307,Los Angeles,Level 1
+S157,Station_152,New York,Level 1
+S112,Station_14,Chicago,DC Fast Charger
+S616,Station_325,Houston,Level 2
+S135,Station_146,Chicago,DC Fast Charger
+S884,Station_426,San Francisco,DC Fast Charger
+S1086,Station_57,Houston,Level 1
+S326,Station_211,Chicago,Level 2
+S473,Station_268,San Francisco,DC Fast Charger
+S324,Station_210,Chicago,Level 2
+S204,Station_17,Chicago,Level 2
+S517,Station_286,Houston,Level 1
+S675,Station_344,San Francisco,Level 2
+S304,Station_203,New York,DC Fast Charger
+S1206,Station_99,Los Angeles,DC Fast Charger
+S498,Station_279,Houston,Level 1
+S322,Station_209,San Francisco,DC Fast Charger
+S84,Station_129,Chicago,Level 1
+S521,Station_288,Los Angeles,DC Fast Charger
+S432,Station_252,Los Angeles,Level 1
+S462,Station_265,New York,Level 2
+S843,Station_412,Los Angeles,Level 2
+S830,Station_408,Houston,Level 2
+S260,Station_188,Houston,Level 1
+S859,Station_419,Chicago,Level 1
+S338,Station_214,New York,Level 1
+S510,Station_283,Chicago,Level 2
+S329,Station_211,New York,Level 2
+S719,Station_365,Los Angeles,Level 2
+S1141,Station_76,Houston,Level 2
+S142,Station_148,Houston,Level 1
+S603,Station_321,Los Angeles,Level 1
+S335,Station_213,Chicago,Level 2
+S897,Station_433,Chicago,DC Fast Charger
+S41,Station_109,San Francisco,Level 1
+S87,Station_129,New York,DC Fast Charger
+S4,Station_10,Chicago,DC Fast Charger
+S996,Station_47,Los Angeles,DC Fast Charger
+S753,Station_379,Chicago,Level 2
+S591,Station_315,Houston,Level 1
+S1197,Station_96,New York,DC Fast Charger
+S941,Station_446,San Francisco,Level 2
+S18,Station_103,New York,Level 1
+S757,Station_380,Houston,Level 2
+S666,Station_342,Houston,Level 1
+S137,Station_146,Houston,Level 1
+S726,Station_368,Houston,Level 2
+S893,Station_430,Los Angeles,DC Fast Charger
+S854,Station_416,San Francisco,Level 1
+S475,Station_27,Houston,Level 1
+S357,Station_220,Houston,DC Fast Charger
+S195,Station_167,San Francisco,DC Fast Charger
+S1012,Station_477,San Francisco,DC Fast Charger
+S578,Station_310,Houston,DC Fast Charger
+S1019,Station_479,Los Angeles,Level 1
+S437,Station_254,New York,Level 2
+S183,Station_162,Chicago,Level 2
+S625,Station_327,San Francisco,Level 2
+S869,Station_420,New York,Level 1
+S817,Station_402,New York,DC Fast Charger
+S755,Station_38,Los Angeles,DC Fast Charger
+S928,Station_443,Chicago,Level 1
+S791,Station_393,San Francisco,Level 2
+S301,Station_201,Chicago,DC Fast Charger
+S1059,Station_494,Los Angeles,Level 1
+S296,Station_200,Houston,DC Fast Charger
+S442,Station_255,New York,Level 2
+S230,Station_179,San Francisco,Level 2
+S681,Station_35,Houston,DC Fast Charger
+S1163,Station_82,Los Angeles,Level 1
+S777,Station_389,Chicago,Level 1
+S801,Station_398,New York,DC Fast Charger
+S359,Station_220,San Francisco,Level 2
+S173,Station_158,Houston,Level 1
+S194,Station_167,New York,DC Fast Charger
+S989,Station_468,Chicago,Level 2
+S944,Station_448,Los Angeles,Level 2
+S834,Station_409,Chicago,Level 1
+S841,Station_412,Chicago,Level 1
+S306,Station_204,Chicago,Level 1
+S275,Station_194,New York,Level 2
+S391,Station_235,New York,DC Fast Charger
+S314,Station_206,Los Angeles,Level 1
+S149,Station_150,Chicago,Level 1
+S177,Station_159,New York,Level 1
+S499,Station_279,Los Angeles,DC Fast Charger
+S822,Station_404,Chicago,Level 1
+S762,Station_381,San Francisco,Level 2
+S189,Station_166,Chicago,Level 2
+S582,Station_311,San Francisco,Level 2
+S1114,Station_68,Los Angeles,DC Fast Charger
+S985,Station_463,New York,Level 2
+S1178,Station_88,Houston,Level 1
+S348,Station_217,Los Angeles,Level 1
+S3,Station_1,New York,DC Fast Charger
+S106,Station_135,Los Angeles,DC Fast Charger
+S684,Station_351,San Francisco,DC Fast Charger
+S118,Station_140,Los Angeles,Level 1
+S27,Station_106,New York,Level 2
+S102,Station_133,Chicago,Level 1
+S33,Station_108,Houston,DC Fast Charger
+S225,Station_178,Chicago,Level 2
+S545,Station_298,San Francisco,Level 1
+S707,Station_358,Chicago,DC Fast Charger
+S756,Station_380,Houston,DC Fast Charger
+S797,Station_396,New York,Level 2
+S709,Station_359,Los Angeles,Level 1
+S138,Station_146,San Francisco,Level 1
+S950,Station_450,Houston,DC Fast Charger
+S1137,Station_74,San Francisco,Level 2
+S983,Station_463,Chicago,Level 1
+S1016,Station_478,San Francisco,Level 2
+S70,Station_122,Los Angeles,Level 1
+S206,Station_17,Los Angeles,DC Fast Charger
+S624,Station_327,New York,DC Fast Charger
+S596,Station_318,San Francisco,Level 1
+S540,Station_297,Chicago,Level 2
+S1070,Station_499,Los Angeles,Level 1
+S431,Station_252,Los Angeles,DC Fast Charger
+S1044,Station_487,New York,Level 1
+S59,Station_119,New York,Level 1
+S184,Station_162,Houston,Level 1
+S288,Station_198,San Francisco,DC Fast Charger
+S1069,Station_498,San Francisco,Level 1
+S1037,Station_486,Chicago,Level 2
+S949,Station_45,Los Angeles,Level 2
+S589,Station_314,New York,DC Fast Charger
+S228,Station_179,Chicago,Level 1
+S763,Station_382,Chicago,DC Fast Charger
+S858,Station_418,New York,Level 1
+S919,Station_44,San Francisco,DC Fast Charger
+S1150,Station_78,San Francisco,Level 1
+S620,Station_326,Chicago,DC Fast Charger
+S226,Station_178,Los Angeles,DC Fast Charger
+S703,Station_357,Houston,DC Fast Charger
+S1066,Station_498,Chicago,Level 1
+S853,Station_416,San Francisco,DC Fast Charger
+S955,Station_451,San Francisco,Level 1
+S549,Station_3,San Francisco,Level 2
+S339,Station_214,New York,Level 2
+S1134,Station_74,Los Angeles,Level 1
+S1111,Station_67,San Francisco,Level 1
+S636,Station_332,New York,Level 1
+S1192,Station_93,Los Angeles,Level 2
+S220,Station_176,Chicago,DC Fast Charger
+S1122,Station_7,New York,Level 1
+S742,Station_376,Houston,Level 2
+S607,Station_322,San Francisco,Level 2
+S807,Station_4,San Francisco,Level 2
+S110,Station_138,Los Angeles,Level 1
+S379,Station_231,Houston,Level 1
+S1180,Station_88,San Francisco,Level 2
+S208,Station_17,San Francisco,Level 2
+S1077,Station_52,Los Angeles,DC Fast Charger
+S103,Station_134,Chicago,DC Fast Charger
+S330,Station_211,San Francisco,DC Fast Charger
+S618,Station_325,New York,DC Fast Charger
+S1026,Station_480,New York,Level 2
+S965,Station_458,Chicago,DC Fast Charger
+S789,Station_393,Houston,Level 2
+S354,Station_219,Los Angeles,Level 2
+S312,Station_205,New York,Level 1
+S328,Station_211,New York,DC Fast Charger
+S495,Station_277,Chicago,Level 2
+S403,Station_24,Houston,Level 1
+S1038,Station_486,Houston,Level 1
+S805,Station_4,Chicago,Level 2
+S158,Station_152,New York,Level 2
+S1030,Station_483,New York,DC Fast Charger
+S448,Station_259,Houston,Level 2
+S614,Station_324,New York,Level 2
+S704,Station_357,Los Angeles,Level 1
+S198,Station_168,San Francisco,Level 1
+S222,Station_176,New York,Level 1
+S577,Station_310,Chicago,Level 1
+S526,Station_291,San Francisco,Level 1
+S1017,Station_479,Chicago,DC Fast Charger
+S1082,Station_56,Chicago,Level 1
+S32,Station_108,Chicago,Level 2
+S1003,Station_473,New York,DC Fast Charger
+S537,Station_296,Houston,Level 1
+S979,Station_461,San Francisco,Level 1
+S612,Station_324,Los Angeles,Level 1
+S642,Station_334,New York,Level 1
+S123,Station_141,Chicago,Level 2
+S166,Station_155,Los Angeles,Level 2
+S458,Station_262,San Francisco,Level 1
+S867,Station_420,Houston,DC Fast Charger
+S384,Station_232,Los Angeles,DC Fast Charger
+S406,Station_241,New York,DC Fast Charger
+S651,Station_337,Los Angeles,Level 1
+S1047,Station_489,Chicago,DC Fast Charger
+S420,Station_249,Houston,DC Fast Charger
+S1143,Station_77,Los Angeles,DC Fast Charger
+S236,Station_180,Houston,Level 1
+S1109,Station_66,Houston,Level 1
+S571,Station_308,Houston,Level 2
+S679,Station_348,New York,Level 1
+S213,Station_171,Houston,DC Fast Charger
+S1004,Station_474,Chicago,Level 2
+S355,Station_22,Chicago,Level 2
+S724,Station_367,San Francisco,Level 2
+S30,Station_107,Houston,Level 2
+S911,Station_439,Houston,Level 1
+S609,Station_323,Los Angeles,DC Fast Charger
+S371,Station_227,New York,Level 1
+S934,Station_444,San Francisco,Level 1
+S923,Station_442,Houston,Level 2
+S795,Station_396,Los Angeles,Level 1
+S1119,Station_69,San Francisco,DC Fast Charger
+S1170,Station_84,San Francisco,Level 2
+S16,Station_103,Houston,Level 1
+S780,Station_39,San Francisco,Level 2
+S91,Station_13,Los Angeles,DC Fast Charger
+S542,Station_297,San Francisco,Level 1
+S585,Station_313,Chicago,DC Fast Charger
+S1056,Station_493,New York,Level 2
+S472,Station_268,New York,Level 2
+S90,Station_13,Houston,Level 2
+S65,Station_120,Houston,Level 1
+S966,Station_458,Chicago,Level 2
+S692,Station_353,New York,Level 1
+S1089,Station_57,New York,DC Fast Charger
+S809,Station_40,New York,Level 2
+S740,Station_374,New York,DC Fast Charger
+S82,Station_128,Los Angeles,DC Fast Charger
