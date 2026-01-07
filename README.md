@@ -9,7 +9,7 @@ Analyzed 15K+ electric vehicle (EV) charging session data to uncover demand and 
 - SQL
 - Power BI
 
-## Key Work Done
+## Project Highlights
 - Cleaned and transformed EV charging session data using Python  
 - Designed a star schema with fact and dimension tables  
 - Performed SQL-based analysis on energy usage and revenue trends  
