@@ -1,4 +1,4 @@
-# Electric vehicle Charging Analytics & Forecasting
+# Electric vehicle Charging Analysis & Forecasting
 
 ## Overview
 Analyzed 15K+ electric vehicle (EV) charging session data to uncover demand and revenue trends and built short-term forecasts to support operational planning and pricing decisions.
